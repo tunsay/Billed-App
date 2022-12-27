@@ -1,0 +1,6 @@
+[submodule "P9_Billed-app-FR-Back"]
+	path = P9_Billed-app-FR-Back
+	url = https://github.com/tunsay/P9_Billed-app-FR-Back.git
+[submodule "P9_Billed-app-FR-Front"]
+	path = P9_Billed-app-FR-Front
+	url = https://github.com/tunsay/P9_Billed-app-FR-Front.git
